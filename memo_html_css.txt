@@ -1,0 +1,30 @@
+html/css jegyzetek
+
+<!DOCTYPE HTML>
+<!--This is a comment-->
+<html>
+    <head>
+        <title>Title of the html document</title>
+        <style>
+            /* memo */
+            * {
+                text-align: center;
+                font-family: "Arial Bold", Arial, sans-serif;
+                text-transform: uppercase; /* lowercase capitalize none xx-large */
+            }
+            h1 {
+                background-color: #4865C0;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>This is a heading</h1>
+        <p>This is a paragraph</p>
+    </body>
+</html>
+
+<strong></strong>
+
+link
+https://color.adobe.com
